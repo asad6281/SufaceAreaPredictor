@@ -12,7 +12,7 @@ This repository contains an application that predicts the surface area of a cyli
 
 If you're accessing this project through GitHub:
 
-` https://github.com/-------/surface_area_predictor.git `
+` (https://github.com/asad6281/SufaceAreaPredictor.git) `
 
 ###2. Make your virtual environment using requirements.txt file using the following command
 
